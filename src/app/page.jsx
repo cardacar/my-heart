@@ -136,7 +136,7 @@ export default function Home() {
             <img src="/ten-para-ti.png" alt="Imagen" className="w-32 h-32 rounded-lg mb-4 object-cover" />
             </div>
             <div className="text-center text-lg font-semibold text-pink-600 px-4">
-            Aunque hoy estemos en diferentes servidores, mi amor por ti sigue corriendo sin bugs y con alta disponibilidad. Quisiera estar contigo para hacerte el desayuno sorpresa, pero cuando leas la carta quiero que revises la cuenta, conmigo nunca serás espectadora, siempre protagonista❤️.
+            Aunque hoy estemos en diferentes servidores, mi amor por ti sigue corriendo sin bugs y con alta disponibilidad. Quisiera estar contigo para hacerte el desayuno sorpresa, conmigo nunca serás espectadora, siempre protagonista❤️.
             </div>
           </div>
         </motion.div>
