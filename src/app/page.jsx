@@ -41,7 +41,7 @@ export default function Home() {
             }
           ]);
         }, 1500);
-      }, 97000); // 1 minuto y 37 segundos (97,000 ms)
+      }, 90000); // 1 minuto y 37 segundos (97,000 ms)
     }
   };
 
